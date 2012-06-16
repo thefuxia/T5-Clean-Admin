@@ -1,7 +1,6 @@
 <?php # -*- coding: utf-8 -*-
 /**
  * Plugin Name: T5 Clean Admin
- * Text Domain: t5_clean_admin
  * Description: Removes all the layout gimmicks from back-end.
  * Version:     2012.06.16
  * Author:      Thomas Scholz <info@toscho.de>
