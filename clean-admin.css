@@ -1,0 +1,72 @@
+/* CSS for plugin T5 Clean Admin */
+*,
+#postdivrich
+{
+	border-radius: 		0px		!important;
+	box-shadow:			0px 0px 0px		!important;
+	text-shadow:		none	!important;
+}
+#adminmenuwrap,
+#title
+{
+	border-color:		transparent		!important;
+}
+/* gradients */
+.media-item .progress,
+.media-item .bar,
+.pressthis a,
+#menu-to-edit .menu-item-invalid .menu-item-handle,
+.hndle,
+#adminmenushadow,
+#adminmenuback,
+#screen-meta-links a,
+#screen-meta-links div,
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, 
+#adminmenu li.current a.menu-top, 
+.folded #adminmenu li.wp-has-current-submenu, 
+.folded #adminmenu li.current.menu-top, 
+#adminmenu .wp-menu-arrow, 
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head,
+.widget .widget-top, 
+.postbox h3, 
+.stuffbox h3, 
+.widefat thead tr th, 
+.widefat tfoot tr th, 
+h3.dashboard-widget-title, 
+h3.dashboard-widget-title span, 
+h3.dashboard-widget-title small, 
+.find-box-head, 
+.sidebar-name, 
+#nav-menu-header, 
+#nav-menu-footer, 
+.menu-item-handle,
+.button, 
+.submit input, 
+.button-secondary,
+.button-primary
+{
+	background-image:	none	!important;
+}
+input[type="submit"]:not(.button-primary)
+{
+	background-color:	#ddd	!important;
+}
+#wp-content-media-buttons *
+{
+	background:			transparent	!important;
+	_background:			red	!important;
+}
+#publish
+{
+	box-sizing:			border-box;
+}
+#wpwrap
+{
+	/* http://subtlepatterns.com/?p=1318 */
+	background:			#ececec url(linen.png)	!important;
+}
+.menupop.hover .ab-item
+{
+	max-width:			none	!important;
+	width:				150px	!important;
+}
